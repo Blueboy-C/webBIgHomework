@@ -69,5 +69,7 @@ function signup(){
           alert("注册成功！")
        }else alert("注册失败")
     })
+
+    console.log("前端已死");
 }
 </script>
